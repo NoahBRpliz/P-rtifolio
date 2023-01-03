@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    
+}
+#apps{
+    background-color: rgb(0, 37, 69);
+    color:white;
+}
+#carro-no-ceu{
+background-color: rgb(69, 37, 0);
+margin: auto;
+
+}
+#carro-no-ceu img{
+    width: 300px;
+    margin-top: 30px;
+}
